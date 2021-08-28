@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "image": "/img/1.jpg",
+    "alt": "Image One"
+  },
+  {
+    "id": 2,
+    "image": "/img/2.jpg",
+    "alt": "Image Two"
+  },
+  {
+    "id": 3,
+    "image": "/img/3.jpg",
+    "alt": "Image Three"
+  },
+  {
+    "id": 4,
+    "image": "/img/4.jpg",
+    "alt": "Image Four"
+  },
+  {
+    "id": 5,
+    "image": "/img/5.jpg",
+    "alt": "Image Five"
+  }
+]
