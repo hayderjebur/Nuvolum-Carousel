@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.scss';
-import Carousel from './carousel/Carousel';
-import data from './silder-data.json';
+import Carousel from './components/Carousel';
+import data from './slider-data.json';
 
 function App() {
   const [currentImg, setCurrentImg] = useState(0);

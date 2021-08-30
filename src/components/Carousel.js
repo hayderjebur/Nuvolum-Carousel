@@ -1,15 +1,14 @@
 import React from 'react';
 import '../Sass/components/carousel.scss';
 import Modal from './Modal';
-import { ICarouselProps } from '../interface/carousel';
 
-const Carousel: React.FC<ICarouselProps> = ({
+const Carousel = ({
   currentImg,
   setCurrentImg,
   showModal,
   setShowModal,
   data,
-}): JSX.Element => {
+}) => {
   return (
     <div className='container'>
       <div className='width70'>

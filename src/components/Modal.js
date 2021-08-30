@@ -1,13 +1,8 @@
 import React, { useEffect, useRef } from 'react';
-import { IModalProps } from '../interface/modal';
 import '../Sass/components/modal.scss';
 
-const Modal: React.FC<IModalProps> = ({
-  showModal,
-  children,
-  onClose,
-}): JSX.Element => {
-  const modalRef = useRef<HTMLDivElement>(null);
+const Modal = ({ showModal, children, onClose }) => {
+  const modalRef = useRef(null);
   useEffect(() => {
     if (showModal) {
       modalRef.current?.classList.add('visible');
