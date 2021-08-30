@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Nuvolum-app/static/css/main.72e5a529.chunk.css",
-    "main.js": "/Nuvolum-app/static/js/main.9cd0c4ae.chunk.js",
-    "main.js.map": "/Nuvolum-app/static/js/main.9cd0c4ae.chunk.js.map",
+    "main.js": "/Nuvolum-app/static/js/main.58a52174.chunk.js",
+    "main.js.map": "/Nuvolum-app/static/js/main.58a52174.chunk.js.map",
     "runtime-main.js": "/Nuvolum-app/static/js/runtime-main.15df315c.js",
     "runtime-main.js.map": "/Nuvolum-app/static/js/runtime-main.15df315c.js.map",
     "static/js/2.0a97c9d8.chunk.js": "/Nuvolum-app/static/js/2.0a97c9d8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.15df315c.js",
     "static/js/2.0a97c9d8.chunk.js",
     "static/css/main.72e5a529.chunk.css",
-    "static/js/main.9cd0c4ae.chunk.js"
+    "static/js/main.58a52174.chunk.js"
   ]
 }
